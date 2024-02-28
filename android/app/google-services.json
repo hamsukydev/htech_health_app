@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "6275215079",
+    "firebase_url": "https://healthbase-abe9e-default-rtdb.firebaseio.com",
+    "project_id": "healthbase-abe9e",
+    "storage_bucket": "healthbase-abe9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6275215079:android:2897aea5c4ea81041cfc42",
+        "android_client_info": {
+          "package_name": "com.example.htechapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsQf1KhEMSsqX8rz03WENKr_TfA76Xow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
